@@ -1,0 +1,29 @@
+1- Mejoramos las funcionalidades existentes. Que funcione
+2- mejoramos la UX de las funcionalidades existentes
+3- anadimos nuevas funcionalidades
+
+ERRORES
+.redimensionado de tablero (hecho)
+.quitar la action bar (con el theme en el manifest - android:theme="@style/Theme.AppCompat.NoActionBar") (hecho)
+.****************
+.
+.
+MEJORAS DE UX
+.un color para el punto actual, y otro para el rastro
+.mostrar opciones de movimiento
+.
+.
+.
+.
+FUNCIONALIDADES
+.inicio aleatorio
+.poder mover el caballo (comprobando el movimiento de L)
+.poder pintar niveles (Limpiarlos)
+.control de movimientos
+.control de opciones
+.control de tiempo
+.control de vidas
+.mostrar publicidad
+.permitir pagar para ser premium
+.habilitar accesos de premium a mas niveles y deshabilitar publicidad
+.opcion de compartir resultados

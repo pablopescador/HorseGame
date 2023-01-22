@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Horse Challenge</string>
+
+    <string name="title">Horse Challenge</string>
+    <string name="level">Level</string>
+    <string name="moves">Moves</string>
+    <string name="Time">Time</string>
+    <string name="Lives" >Lives</string>
+    <string name="Options">Options</string>
+    <string name="instructions">Move the horse over board to complete all cells.</string>
+    <string name="credits">Game created by Jose Javier Villena.</string>
+
+    <string name="premium">Tap here to remove ads, get more levels and unlimited lives</string>
+    <string name= "premiumTitle">Get Premium Access Forever</string>
+    <string name="premiumBenefit1">No more Ads</string>
+    <string name="premiumBenefit2">Unlimited lives</string>
+    <string name="premiumBenefit3">Keep your reached level</string>
+    <string name="pay">PAY ONLY 1$ NOW</string>
+</resources>
